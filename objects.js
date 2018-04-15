@@ -1,7 +1,7 @@
 var playlist = {idan: 'boee'}
 function upadtePlaylist(playlist, artistName, songTitle){
-  playlist [artistName] = songTitle
-  return object
+  playlist [artistName] = songTitle;
+  return playlist
 }
 
 function removeFromPlaylist(playlist, artistName){
